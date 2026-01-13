@@ -1,0 +1,22 @@
+.login-page{
+    background:url('/media/login.jpg') ;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.login-form{
+    width: 400px;
+    background-color: white;
+    height: 400px;
+    padding: 25px;
+    border-radius:4%;
+
+}
+.btn{
+    margin-top: 25px;
+}

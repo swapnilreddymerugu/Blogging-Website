@@ -1,0 +1,9 @@
+.footer-div{
+    background-color: rgb(17, 17, 58);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    margin-top: 10px;
+}
